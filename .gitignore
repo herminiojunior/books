@@ -14,6 +14,9 @@ venv/
 mediafiles/
 staticfiles/
 
+docker-compose-prod.yml
+db.sqlite3
+.DS_Store # Mac only
 
 ### PyCharm+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
